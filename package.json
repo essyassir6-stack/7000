@@ -8,6 +8,7 @@
   "dependencies": {
     "discord.js": "^14.14.1",
     "@discordjs/voice": "^0.16.1",
-    "play-dl": "^1.9.7"
+    "play-dl": "^1.9.7",
+    "ffmpeg-static": "^5.2.0"
   }
 }
