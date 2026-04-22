@@ -1,5 +1,5 @@
 {
-  "name": "discord-music-bot",
+  "name": "stable-discord-music-bot",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -8,7 +8,8 @@
   "dependencies": {
     "discord.js": "^14.14.1",
     "@discordjs/voice": "^0.16.1",
-    "play-dl": "^1.9.7",
+    "ytdl-core": "^4.11.5",
+    "soundcloud.ts": "^0.5.2",
     "ffmpeg-static": "^5.2.0"
   }
 }
